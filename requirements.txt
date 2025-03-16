@@ -1,4 +1,5 @@
 Django
 djangorestframework
+djangorestframework_simplejwt
 requests
 beautifulsoup4
